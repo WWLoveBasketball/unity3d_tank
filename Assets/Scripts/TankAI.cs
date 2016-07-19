@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TankAI : MonoBehaviour {
+public class TankAI : unityClass {
 
 	// Use this for initialization
 	void Start () {
