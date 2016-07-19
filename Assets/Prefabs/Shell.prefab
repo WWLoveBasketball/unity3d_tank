@@ -199,6 +199,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sheelExplosion: {fileID: 195792, guid: 89e78efe92dfe5a42837b392cdb0bf9e, type: 2}
+  radius: 5
+  explosionForce: 100
 --- !u!198 &19813402
 ParticleSystem:
   m_ObjectHideFlags: 1
